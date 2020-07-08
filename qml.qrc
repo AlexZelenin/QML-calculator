@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Btns.qml</file>
+        <file>Dspls.qml</file>
+        <file>utils.js</file>
+    </qresource>
+</RCC>
