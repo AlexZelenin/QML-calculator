@@ -1,1 +1,1 @@
-# QML-calculator
+#  Example QML-calculator
